@@ -1,1 +1,1 @@
-# House-Price-Prediction
+# Electric Consumption Prediction
